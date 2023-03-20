@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Backend Development with Node.js  
   
 
-- 📄 Know about my[ experiences & projects](https://www.canva.com/design/DAFb4l6QFOk/j0H16fefcRQP10spVXHBsA/view)  
+- 📄 Know about my[ experiences & projects](https://kanadeaditya.github.io/) 
   
 
 <br/>  
