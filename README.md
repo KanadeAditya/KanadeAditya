@@ -2,12 +2,6 @@
 ### *<ins><div align="center">Hi, I'm Aditya 👋,  a  Full Stack Web Developer 👨‍💻 with an interest in Backend Development🚀 </div></ins>*  
   
 
-- 🔭 I’m currently working on [PetMate [Appointment-Booking-System]](https://github.com/KanadeAditya/PetMate-Appointment-Booking-System)  
-  
-
-- 🌱 I’m currently learning Backend Development with Node.js  
-  
-
 - 📄 Know about my[ experiences & projects](https://kanadeaditya.github.io/) 
   
 
